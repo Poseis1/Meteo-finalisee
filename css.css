@@ -1,0 +1,79 @@
+
+html{
+    font-family:sans-serif ;
+}
+h1{
+    text-align: center;
+}
+#logo{
+    text-align: center;
+    margin-top: 150px; 
+}
+#logo img{
+    height: 600px;
+}
+header{
+    display:flex;
+    background-color:black ;
+}
+header img{
+    height: 75px;
+}  
+body{
+    margin:0px;
+    background-color: lightblue;
+    }
+header h1{
+    line-height: 2em;
+    height: 75px;
+    width:25%;
+    color: white;
+    margin: 0px;
+}
+h1:hover{
+    background-color: darkgrey;
+}
+h1 a{
+    color: white;
+    text-decoration: none;
+}
+#NoAds img {
+    height: 450px;
+
+}
+#NoAds{
+    text-align: center;
+}
+
+#Free img{
+    height: 300px;   
+}
+
+#Source img{
+    height: 300px;
+}
+
+h2{
+   text-align: center; 
+   margin-top: 1080px;
+   margin-left: auto;
+}
+
+h3{
+    text-align: center; 
+    margin-top: 2160px;
+}
+
+h4{
+    text-align: center; 
+    margin-top: 3240px; 
+}
+
+#h2{
+    height: 540px;
+}
+
+#h3{
+  height: 540px;  
+}
+
